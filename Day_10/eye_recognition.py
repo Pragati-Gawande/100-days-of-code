@@ -19,12 +19,8 @@ while True:
         for(a,b,c,d) in eyes:
             cv2.rectangle(face_color, (a,b), (a+c, b+d), (0,255,0), 2)
 
-    cv2.imshow("image", image)
-    key = cv2.waitKey(30) & 0xff
-    if key == 113:
-        break
-
-capture.release()
+cv2.imshow("image", image)
+cv2.watKey(0)   
 cv2.destroyAllWindows()    
 
 
