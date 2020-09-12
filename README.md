@@ -11,3 +11,5 @@ Day 8 - Text extract and use of OCR.\
 Day 9 - Automate a web browsing.\
 Day 10 - Eye recognition read captured image,learn use of eye_cascade.\
 Day 11 - Image Data Augmentation with Keras use rotation, width and height shifts, brightness.\
+Day 12 - Recognize Stop Sign  using OpenCV.
+
