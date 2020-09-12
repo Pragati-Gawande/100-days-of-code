@@ -14,7 +14,7 @@ Day 11 - Image Data Augmentation with Keras use rotation, width and height shift
 Day 12 - Recognize Stop Sign  using OpenCV.\
 Day 13 - Kaggle Games Dataset working with Pandas.\
 Day 14 - Working with numpy.\
-Day 15 - .\
+Day 15 - Data Visualization Using Python.\
 Day 15 - .\
 Day 15 - .\
 Day 15 - .\
