@@ -1,7 +1,6 @@
 import numpy as np
 from collections import Counter
 
-
 def entropy(y):
     hist = np.bincount(y)
     ps = hist / len(y)
