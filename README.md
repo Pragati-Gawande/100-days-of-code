@@ -27,7 +27,7 @@
 * Day 25 - Linear Regression algorithm.
 * Day 26 - Random Forest understand how it works.
 * Day 27 - Learn KNN algorithm python code from scratch.
-* Day 28 - Naive bayes algorithm.
+* Day 28 - Naive bayes algorithm is a classification technique based on Bayes' Theorem.
 * Day 29 - DecisionTree supervised learning method used for both classification and regression tasks.
 * Day 30 - K-means clustering is a method of vector quantization, understand how to optimize clusters.
 * Day 31 - .
