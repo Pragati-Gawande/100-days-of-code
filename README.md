@@ -30,5 +30,5 @@
 * Day 28 - Naive bayes algorithm is a classification technique based on Bayes' Theorem.
 * Day 29 - DecisionTree supervised learning method used for both classification and regression tasks.
 * Day 30 - K-means clustering is a method of vector quantization, understand how to optimize clusters.
-* Day 31 - .
+* Day 31 - Linear discriminant analysis work as classifier and posteriorly it will reduce the dimensionality of the dataset.
 
