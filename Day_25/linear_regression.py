@@ -1,6 +1,7 @@
 import numpy as np
 
-class LogisticRegression:
+
+class LinearRegression:
 
     def __init__(self, learning_rate=0.001, n_iters=1000):
         self.lr = learning_rate
@@ -17,24 +18,16 @@ class LogisticRegression:
 
         # gradient descent
         for _ in range(self.n_iters):
-            # approximate y with linear combination of weights and x, plus bias
-            linear_model = np.dot(X, self.weights) + self.bias
-            # apply sigmoid function
-            y_predicted = self._sigmoid(linear_model)
-
+            y_predicted = np.dot(X, self.weights) + self.bias
             # compute gradients
             dw = (1 / n_samples) * np.dot(X.T, (y_predicted - y))
             db = (1 / n_samples) * np.sum(y_predicted - y)
+
             # update parameters
             self.weights -= self.lr * dw
             self.bias -= self.lr * db
+ 
 
     def predict(self, X):
-        linear_model = np.dot(X, self.weights) + self.bias
-        y_predicted = self._sigmoid(linear_model)
-        y_predicted_cls = [1 if i > 0.5 else 0 for i in y_predicted]
-        return np.array(y_predicted_cls)
-
-    def _sigmoid(self, x):
-        return 1 / (1 + np.exp(-x))
-
+        y_approximated = np.dot(X, self.weights) + self.bias
+        return y_approximated
