@@ -21,14 +21,14 @@
 * Day 19 - Python code connectivity with sqlite3.
 * Day 20 - Learn about flask how VideoCamera() works.
 * Day 21 - Support vector machines using scikit-learn and the Radial Basis Function (RBF) Kernel.
-* Day 22 - .\
+* Day 22 - 
 * Day 23 - Video Generating use of PIL python package.
 * Day 24 - Multilayer Perceptron Models with Keras.
-* Day 25 - .\
-* Day 26 - .\
-* Day 27 - .\
-* Day 28 - .\
-* Day 29 - .\
-* Day 30 - .\
+* Day 25 - Linear_regression algorithm.
+* Day 26 - Random Forest understand how it works.
+* Day 27 - Learn KNN algorithm python code from scratch.
+* Day 28 - Naive bayes algorithm.
+* Day 29 - DecisionTree.
+* Day 30 - .
 * Day 31 - .
 
