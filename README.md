@@ -24,11 +24,11 @@
 * Day 22 - 
 * Day 23 - Video Generating use of PIL python package.
 * Day 24 - Multilayer Perceptron Models with Keras.
-* Day 25 - Linear_regression algorithm.
+* Day 25 - Linear Regression algorithm.
 * Day 26 - Random Forest understand how it works.
 * Day 27 - Learn KNN algorithm python code from scratch.
 * Day 28 - Naive bayes algorithm.
-* Day 29 - DecisionTree.
-* Day 30 - .
+* Day 29 - DecisionTree supervised learning method used for both classification and regression tasks.
+* Day 30 - K-means clustering is a method of vector quantization, understand how to optimize clusters.
 * Day 31 - .
 
