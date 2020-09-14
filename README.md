@@ -1,7 +1,7 @@
 ## 100-days-of-code
 
 * Day 1 - Face detection learn about VideoCapture function.
-* Day 2 - Screen recoding and save it using VideoWriter.
+* Day 2 - Screen recording and save it using VideoWriter.
 * Day 3 - Speech to text use of Recognizer and recognize_google function.
 * Day 4 - Text to speech learn about pyttsx3.
 * Day 5 - Automate email sending use of SMTP server.
@@ -21,7 +21,7 @@
 * Day 19 - Python code connectivity with sqlite3.
 * Day 20 - Learn about flask how VideoCamera() works.
 * Day 21 - Support vector machines using scikit-learn and the Radial Basis Function (RBF) Kernel.
-* Day 22 - 
+* Day 22 - Image blurring using OpenCV.
 * Day 23 - Video Generating use of PIL python package.
 * Day 24 - Multilayer Perceptron Models with Keras.
 * Day 25 - Linear Regression algorithm.
@@ -30,5 +30,5 @@
 * Day 28 - Naive bayes algorithm is a classification technique based on Bayes' Theorem.
 * Day 29 - DecisionTree supervised learning method used for both classification and regression tasks.
 * Day 30 - K-means clustering is a method of vector quantization, understand how to optimize clusters.
-* Day 31 - .
+* Day 31 - Linear discriminant analysis work as classifier and reduce the dimensionality of the dataset.
 
